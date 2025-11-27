@@ -18,7 +18,7 @@ Fasady zostały zmierzone i opisane zestawem cech opisujących m.in.:
 - proporcje (wysokość, szerokość, proporcja),
 - rytm i symetrię (częstotliwość, warianty rytmu),
 - perforację (okna, drzwi, długości otworów),
-- p
+- warstwowość fasad (wykusze, ryzality)
 - cechy geometryczne powierzchni fasady.
 
 Łącznie analizowano dziesiątki cech numerycznych i binarnych.
@@ -140,11 +140,11 @@ Najważniejsze biblioteki:
 
 ## Wyniki analizy
 
-- ✔ **7 klastrów fasad** o zróżnicowanych cechach i charakterze architektonicznym,  
-- ✔ stabilność klastrów oceniona bootstrapem,  
-- ✔ analizy proporcji, warstwowości, perforacji, rytmu i symetrii,  
-- ✔ mapa fasad i ich typologii w przestrzeni miasta,  
-- ✔ możliwość dalszej interpretacji urbanistycznej i historycznej.
+- **7 klastrów fasad** o zróżnicowanych cechach i charakterze architektonicznym,  
+- stabilność klastrów oceniona bootstrapem,  
+- analizy proporcji, warstwowości, perforacji, rytmu i symetrii,  
+- mapa fasad i ich typologii w przestrzeni miasta,  
+- możliwość dalszej interpretacji urbanistycznej i historycznej.
 
 ---
 
@@ -152,7 +152,7 @@ Najważniejsze biblioteki:
 
 - systematyzacja zasobów zabytkowych,  
 - analiza spójności stylistycznej kwartałów,  
-- wykrywanie nietypowych fasad,  
+- wykrywanie typowych i nietypowych fasad,  
 - wsparcie w decyzjach konserwatorskich,  
 - tworzenie narzędzi do automatycznej kategoryzacji zabudowy.
 
