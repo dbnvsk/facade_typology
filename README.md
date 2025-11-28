@@ -88,21 +88,21 @@ Każda fasada została wyświetlona na mapie Gdańska w kolorze odpowiadającym 
 ---
 
 ## Struktura repozytorium
-typologie_fasad/
-│
-├── README.md
-├── requirements.txt
-│
-├── data/
-│ DANE.xlsx
-│ cechy.png
-│ proba badawcza.png
-│
-├── src/
-│ typologie_ward.py
-│
-└── output/
-mapa_klastry_ward.html
+typologie_fasad/<br>
+│<br>
+├── README.md<br>
+├── requirements.txt<br>
+│<br>
+├── data/<br>
+│ DANE.xlsx<br>
+│ cechy.png<br>
+│ proba badawcza.png<br>
+│<br>
+├── src/<br>
+│ typologie_ward.py<br>
+│<br>
+└── output/<br>
+mapa_klastry_ward.html<br>
 
 ## Uruchamianie projektu
 
