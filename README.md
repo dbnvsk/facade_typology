@@ -156,8 +156,3 @@ Najważniejsze biblioteki:
 - wsparcie w decyzjach konserwatorskich,  
 - tworzenie narzędzi do automatycznej kategoryzacji zabudowy.
 
----
-
-## Autor
-Karol Drobniewski
-
