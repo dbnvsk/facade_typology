@@ -308,13 +308,13 @@ palette = ["#e41a1c", "#377eb8", "#4daf4a",
 cluster_ids = sorted(df_clean["cluster"].unique())
 
 cluster_labels = {
-    0: "Nowoczesne fasady",
-    1: "Historyczne kamienice",
-    2: "Bloki mieszkalne",
-    3: "Obiekty usługowe",
-    4: "Obiekty przemysłowe",
-    5: "Inne",
-    6: "Inne 2"
+    1: "Klasa 1 - fasady z czescia dachowa i dominantami",
+    2: "Klasa 2 - fasady monumentalne, z wykuszami , wysokimi gzysmami, o umiarkowanej perforacji",
+    3: "Klasa 3 - fasady pionowe, wysokie z czescia dachowa o umiarkowanej perforacji, z niesymetrycznymi wykuszami",
+    4: "Klasa 4 - fasady z ryzalitami i czescia dachowa z oknami, niesymetryczne",
+    5: "Klasa 5 - fasady niskie, bez czesci dachowej, proste",
+    6: "Klasa 6 - fasady dlugie z ryzalitami z niskim gzymsem przyziemia, dosc symetryczne",
+    7: "Klasa 7 - fasady o sredniej wysokosci, zazwyczaj kwadratowe i wysokim przyziemiu tzw. sredniaki/typowe"
 }
 
 for cl in cluster_ids:
