@@ -148,7 +148,7 @@ Najważniejsze biblioteki:
 
 ---
 
-##Możliwe zastosowania architektoniczne
+## Możliwe zastosowania architektoniczne
 
 - systematyzacja zasobów zabytkowych,  
 - analiza spójności stylistycznej kwartałów,  
